@@ -1,0 +1,140 @@
+2024-09-24 00:33:41 PROGRAM START
+2024-09-24 00:33:41 PROGRAM START
+2024-09-24 00:33:52 PROGRAM START
+2024-09-24 00:33:52 PROGRAM START
+2024-09-24 00:38:48 PROGRAM START
+2024-09-24 00:38:48 PROGRAM START
+2024-09-24 00:38:48 Starting backward chaining process
+2024-09-24 00:38:51 User input received: yes
+2024-09-24 00:38:57 Goal variable selected: starting problem
+2024-09-24 00:38:57 Defining goal variable as 'STARTING PROBLEM'
+2024-09-24 00:43:58 PROGRAM START
+2024-09-24 00:43:58 PROGRAM START
+2024-09-24 00:43:58 Starting backward chaining process
+2024-09-24 00:44:10 User input received: yes
+2024-09-24 00:44:15 Goal variable selected: engine issue
+2024-09-24 00:44:15 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 00:44:15 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 00:44:15 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 00:46:04 PROGRAM START
+2024-09-24 00:46:08 PROGRAM START
+2024-09-24 00:46:08 PROGRAM START
+2024-09-24 00:46:08 Starting backward chaining process
+2024-09-24 00:46:11 User input received: yes
+2024-09-24 00:46:16 Goal variable selected: engine problem
+2024-09-24 00:47:12 PROGRAM START
+2024-09-24 00:47:12 PROGRAM START
+2024-09-24 00:47:12 Starting backward chaining process
+2024-09-24 00:47:15 User input received: yes
+2024-09-24 00:47:20 Goal variable selected: engine issue
+2024-09-24 00:47:20 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 00:47:20 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 00:47:20 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 00:47:20 Updating variable list for clause: 49
+2024-09-24 00:47:20 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 00:47:20 Matching goals found: [6]
+2024-09-24 00:47:20 Updating variable list for clause: 41
+2024-09-24 00:47:26 Validating rule 6
+2024-09-24 00:47:53 PROGRAM START
+2024-09-24 00:47:53 PROGRAM START
+2024-09-24 00:47:53 Starting backward chaining process
+2024-09-24 00:47:56 User input received: yes
+2024-09-24 00:48:03 Goal variable selected: transition problem
+2024-09-24 00:48:03 Defining goal variable as 'TRANSMISSION ISSUE'
+2024-09-24 00:48:03 Searching conclusion list for goal: TRANSMISSION ISSUE
+2024-09-24 00:48:03 Matching goals found: [13, 14, 15, 16]
+2024-09-24 00:48:03 Updating variable list for clause: 97
+2024-09-24 00:48:03 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:48:03 Matching goals found: [12]
+2024-09-24 00:48:03 Updating variable list for clause: 89
+2024-09-24 00:48:11 Validating rule 12
+2024-09-24 00:48:11 Updated global variable TRANSMISSION PROBLEM to 'yes'
+2024-09-24 00:48:13 Validating rule 13
+2024-09-24 00:48:13 Calling forward chaining process for repair recommendation
+2024-09-24 00:48:13 Searching clause variable list for goal: TRANSMISSION FLUID PROBLEM
+2024-09-24 00:49:31 PROGRAM START
+2024-09-24 00:49:31 Forward chaining started
+2024-09-24 00:49:34 PROGRAM START
+2024-09-24 00:49:34 PROGRAM START
+2024-09-24 00:49:34 Starting backward chaining process
+2024-09-24 00:49:37 User input received: yes
+2024-09-24 00:49:49 Goal variable selected: transition problem
+2024-09-24 00:49:49 Defining goal variable as 'TRANSMISSION ISSUE'
+2024-09-24 00:49:49 Searching conclusion list for goal: TRANSMISSION ISSUE
+2024-09-24 00:49:49 Matching goals found: [13, 14, 15, 16]
+2024-09-24 00:49:49 Updating variable list for clause: 97
+2024-09-24 00:49:49 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:49:49 Matching goals found: [12]
+2024-09-24 00:49:49 Updating variable list for clause: 89
+2024-09-24 00:49:57 Validating rule 12
+2024-09-24 00:49:57 Updated global variable TRANSMISSION PROBLEM to 'yes'
+2024-09-24 00:49:59 Validating rule 13
+2024-09-24 00:49:59 Calling forward chaining process for repair recommendation
+2024-09-24 00:49:59 Searching clause variable list for goal: TRANSMISSION FLUID PROBLEM
+2024-09-24 00:49:59 Clause 37 corresponds to Rule 13
+2024-09-24 00:49:59 Updating variable list for clause: 37
+2024-09-24 00:50:02 Validating rule 13
+2024-09-24 00:52:07 PROGRAM START
+2024-09-24 00:52:07 PROGRAM START
+2024-09-24 00:52:07 Starting backward chaining process
+2024-09-24 00:52:14 User input received: yes
+2024-09-24 00:52:21 Goal variable selected: engine issue
+2024-09-24 00:52:21 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 00:52:21 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 00:52:21 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 00:52:21 Updating variable list for clause: 49
+2024-09-24 00:52:21 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 00:52:21 Matching goals found: [6]
+2024-09-24 00:52:21 Updating variable list for clause: 41
+2024-09-24 00:52:33 Validating rule 6
+2024-09-24 00:52:33 Updated global variable ENGINE PROBLEM to 'yes'
+2024-09-24 00:52:38 Validating rule 7
+2024-09-24 00:52:38 Calling forward chaining process for repair recommendation
+2024-09-24 00:52:38 Searching clause variable list for goal: COOLANT LEAK
+2024-09-24 00:52:38 Clause 19 corresponds to Rule 7
+2024-09-24 00:52:38 Updating variable list for clause: 19
+2024-09-24 00:52:42 Validating rule 7
+2024-09-24 00:53:19 PROGRAM START
+2024-09-24 00:53:19 PROGRAM START
+2024-09-24 00:53:19 Starting backward chaining process
+2024-09-24 00:53:22 User input received: yes
+2024-09-24 00:53:29 Goal variable selected: transition problem
+2024-09-24 00:53:29 Defining goal variable as 'TRANSMISSION ISSUE'
+2024-09-24 00:53:29 Searching conclusion list for goal: TRANSMISSION ISSUE
+2024-09-24 00:53:29 Matching goals found: [13, 14, 15, 16]
+2024-09-24 00:53:29 Updating variable list for clause: 97
+2024-09-24 00:53:29 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:53:29 Matching goals found: [12]
+2024-09-24 00:53:29 Updating variable list for clause: 89
+2024-09-24 00:53:39 Validating rule 12
+2024-09-24 00:53:39 Updated global variable TRANSMISSION PROBLEM to 'yes'
+2024-09-24 00:53:44 Validating rule 13
+2024-09-24 00:53:44 Updating variable list for clause: 105
+2024-09-24 00:53:44 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:53:44 Matching goals found: [12]
+2024-09-24 00:53:44 Updating variable list for clause: 89
+2024-09-24 00:53:44 Validating rule 12
+2024-09-24 00:53:49 Validating rule 14
+2024-09-24 00:53:49 Calling forward chaining process for repair recommendation
+2024-09-24 00:53:49 Searching clause variable list for goal: TRANSMISSION SLIPPAGE PROBLEM
+2024-09-24 00:53:49 Clause 40 corresponds to Rule 14
+2024-09-24 00:53:49 Updating variable list for clause: 40
+2024-09-24 00:54:05 Validating rule 14
+2024-09-24 00:57:22 PROGRAM START
+2024-09-24 00:57:22 PROGRAM START
+2024-09-24 00:57:22 Starting backward chaining process
+2024-09-24 00:57:28 User input received: yes
+2024-09-24 00:57:33 Goal variable selected: starting problem
+2024-09-24 00:57:33 Defining goal variable as 'STARTING PROBLEM'
+2024-09-24 00:57:33 Searching conclusion list for goal: STARTING PROBLEM
+2024-09-24 00:57:33 Matching goals found: [2, 3, 4, 5]
+2024-09-24 00:57:33 Updating variable list for clause: 9
+2024-09-24 00:57:37 Validating rule 2
+2024-09-24 00:57:37 Calling forward chaining process for repair recommendation
+2024-09-24 00:57:37 Searching clause variable list for goal: ELECTRICAL SYSTEM PROBLEM
+2024-09-24 00:57:37 Clause 4 corresponds to Rule 2
+2024-09-24 00:57:37 Updating variable list for clause: 4
+2024-09-24 00:57:39 Validating rule 2
+2024-09-24 14:08:25 PROGRAM START
+2024-09-24 14:08:25 PROGRAM START
+2024-09-24 14:08:25 Starting backward chaining process
